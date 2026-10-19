@@ -1,7 +1,7 @@
 ### Seja bem vindo ao meu perfil GitHub!
 
 - 🖥️ Realizando Bacharelado em Tecnologia da Informação
-- 👨‍💻 Estudando Linguagem C e HTML5 E CSS3
+- 👨‍💻 Atualmente estudando: Desenvolvimento de softwares, Internet das Coisas (IoT) e a criação de sistemas inteligentes.
 
 ##
 
